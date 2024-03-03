@@ -1,0 +1,25 @@
+*{width: 75%;
+align-content: center;
+align-items: center;
+padding: 1px;3px
+text-align: center;
+}
+
+.master{padding: 5px;40px;
+}
+.master{align-items: center;}
+.master{border: 3;
+    border-width: 30px;
+    border-spacing: 4px;
+border-color: purple;
+border-style: groove;
+bord
+}
+.third{forced-color-adjust: blue;
+text-align: center;
+}
+a{color: black;}
+
+.a:hover{color:bisque
+}
+.a:hover{transition: 1s;}
